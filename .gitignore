@@ -1,0 +1,111 @@
+# ===========================
+# Unity Generated Files
+# ===========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ===========================
+# Unity Asset Meta Files (keep .meta files for tracked assets)
+# ===========================
+# Do NOT ignore *.meta files — Unity requires them for asset tracking
+
+# ===========================
+# OS / IDE Generated Files
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# Visual Studio / Rider IDE
+# ===========================
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ===========================
+# JetBrains Rider
+# ===========================
+.idea/
+
+# ===========================
+# MonoDevelop / SharpDevelop
+# ===========================
+*.userprefs
+
+# ===========================
+# Unity Cache / Crash Reports
+# ===========================
+sysinfo.txt
+*.stackdump
+/[Cc]rash/
+
+# ===========================
+# Build Output
+# ===========================
+/[Bb]uild/
+/[Bb]uilds/
+/[Gg]ames/
+/[Aa]sset[Bb]undles/
+
+# ===========================
+# Helper Scripts (not part of the game)
+# ===========================
+push_to_github.ps1
+
+# ===========================
+# Package Manager Cache (never commit this)
+# ===========================
+/[Pp]ackages/com.unity.*/
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+
+# ===========================
+# Large Binary / Compiled Files
+# ===========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.mdb
+
+# ===========================
+# Streaming Assets (large media — comment out if needed)
+# ===========================
+# /Assets/StreamingAssets/
+
+# ===========================
+# TextMesh Pro Generated Files (keep the package source)
+# ===========================
+/Assets/TextMesh Pro/Examples/
+
+# ===========================
+# Compressed / Archive Files
+# ===========================
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
