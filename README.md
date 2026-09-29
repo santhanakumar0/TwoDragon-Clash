@@ -1,4 +1,4 @@
-﻿# 🤖 First Game Project
+﻿# 🤖 Two Dragon Clash Game Project
 
 A third-person 3D platformer game built with **Unity 6**, featuring a robot character navigating levels, collecting stars, and respawning on death falls. Created as a learning project using Unity''s Starter Assets framework.
 
